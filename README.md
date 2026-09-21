@@ -1,1 +1,0 @@
-# fearsteal-purchase-logger
